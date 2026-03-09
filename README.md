@@ -19,5 +19,3 @@
 </p>
 
 <p align=center> ────────────────────────────────────────────────
-
-https://www.roblox.com/share?code=d497b65152d7e445840f1489b359007c&type=Profile&source=ProfileShare&stamp=1773030012371
