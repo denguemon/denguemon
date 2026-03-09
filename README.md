@@ -20,4 +20,3 @@
 
 <p align=center> ────────────────────────────────────────────────
 
-![](https://files.catbox.moe/tgs9nk.jpeg)
