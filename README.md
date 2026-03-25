@@ -19,6 +19,3 @@
 </p>
 
 <p align=center> ────────────────────────────────────────────────
-
-![](https://files.catbox.moe/cnpk56.jpeg)
-https://www.roblox.com/share?code=d497b65152d7e445840f1489b359007c&type=Profile&source=ProfileShare&stamp=1774482016506
