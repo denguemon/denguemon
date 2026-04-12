@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://files.catbox.moe/tsp9e3.png"style="width: 90%; height: auto;" />
+</p>
+
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=vendanski&label=recruits&base=3029&color=040404">
 </p>
 
@@ -20,3 +25,6 @@
 
 <p align=center> ────────────────────────────────────────────────
 
+<p align="center">
+  <img src="https://files.catbox.moe/lgsutr.png"style="width: 90%; height: auto;" />
+</p>
