@@ -13,7 +13,7 @@
 </p>
 
 
-<p align=center> " del hombre al que hoy le cantoooo , muy buena genteeee ! si dan la orden en caliente el hace el trabajooo ! "
+<p align=center> " don't pull the thang out , unless you plan to bang ! ' bombs over baghdaaaad ' ! "
 
 <p align=center> ────────────────────────────────────────────────
 
