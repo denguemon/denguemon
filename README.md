@@ -18,9 +18,9 @@
 
 <p align=center> ────────────────────────────────────────────────
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31xau55gmj5ufec2bl4hbxh2zl24">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31xau55gmj5ufec2bl4hbxh2zl24" alt="Data Card for Spotify">
-</a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
   </a>
 </p>
 
