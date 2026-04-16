@@ -14,7 +14,7 @@
 </p>
 
 
-<p align=center> " don't pull the thang out , unless you plan to bang ! ' bombs over baghdaaaad ' ! "
+<p align=center> " oh ! vday , vday !! || 'vday vday' , bella bella bellaaa ^_^ ! "
 
 <p align=center> ────────────────────────────────────────────────
 
