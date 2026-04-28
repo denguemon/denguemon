@@ -9,11 +9,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://files.catbox.moe/wye93p.png"style="width: 70%; height: auto;" />
-</p>
-
-
  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/afb91e38-f2e6-48be-b7f9-92ec273b6fc1"style="width: 190%; height: auto;" />
