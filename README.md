@@ -1,24 +1,24 @@
 
 <p align="center">
-  <img src="https://files.catbox.moe/ncz03w.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/6yl8v0.png"style="width: 100%; height: auto;" />
 </p>
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vendanski&label=visitors!&base=3029&color=fC8504">
+    <img src="https://komarev.com/ghpvc/?username=vendanski&label=visitors!&base=3029&color=60A629">
 </p>
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/javo2r.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/wye93p.png"style="width: 100%; height: auto;" />
 </p>
  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99d097d4-87e6-4d78-80b5-3d1653a4a9ce"style="width: 190%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/afb91e38-f2e6-48be-b7f9-92ec273b6fc1"style="width: 190%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/r8949b.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/5el8nh.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/r8949b.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/5el8nh.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/8drg91.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/mpamr0.png"style="width: 100%; height: auto;" />
 </p>
