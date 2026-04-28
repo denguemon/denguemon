@@ -16,7 +16,9 @@
 
 <p align=center> " oh ! vday , vday !! || 'vday vday' , bella bella bellaaa ^_^ ! "
 
-<p align=center> ────────────────────────────────────────────────
+<p align="center">
+  <img src="https://files.catbox.moe/r8949b.png"style="width: 80%; height: auto;" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -24,7 +26,9 @@
   </a>
 </p>
 
-<p align=center> ────────────────────────────────────────────────
+<p align="center">
+  <img src="https://files.catbox.moe/r8949b.png"style="width: 80%; height: auto;" />
+</p>
 
 <p align="center">
   <img src="https://files.catbox.moe/8drg91.png"style="width: 100%; height: auto;" />
