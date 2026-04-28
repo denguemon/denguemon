@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99d097d4-87e6-4d78-80b5-3d1653a4a9ce"style="width: 190%; height: auto;" />
+  <img src="https://litter.catbox.moe/st74vgxj5g9wm4hr.png"style="width: 100%; height: auto;" />
 </p>
 
 
