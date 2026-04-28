@@ -10,7 +10,13 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/wye93p.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/wye93p.png"style="width: 70%; height: auto;" />
+</p>
+
+<p align="center">
+  ꒰ঌ <a href="https://meassaman.straw.page">strawpage</a> ,  
+  <a href="https://altorocito.atabook.org/">prns</a> , 
+   <a href="https://altorocito.atabook.org/">atabook</a> ໒꒱
 </p>
  
 <p align="center">
