@@ -12,12 +12,10 @@
 <p align="center">
   <img src="https://files.catbox.moe/javo2r.png"style="width: 100%; height: auto;" />
 </p>
- <p align="center">
-  ꒰ঌ <a href="https://meassaman.straw.page/">strawpage</a> ,  
-  <a href="https://altorocito.atabook.org/">pronouns</a> , 
-   <a href="https://altorocito.atabook.org/">atabook</a> ໒꒱
+ 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99d097d4-87e6-4d78-80b5-3d1653a4a9ce"style="width: 190%; height: auto;" />
 </p>
-
 
 <p align="center">
   <img src="https://files.catbox.moe/r8949b.png"style="width: 80%; height: auto;" />
