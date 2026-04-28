@@ -14,7 +14,6 @@
 </p>
 
 
-<p align=center> " oh ! vday , vday !! || 'vday vday' , bella bella bellaaa ^_^ ! "
 
 <p align="center">
   <img src="https://files.catbox.moe/r8949b.png"style="width: 80%; height: auto;" />
