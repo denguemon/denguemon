@@ -31,5 +31,3 @@
 <p align="center">
   <img src="https://files.catbox.moe/mpamr0.png"style="width: 100%; height: auto;" />
 </p>
-
-![](https://litter.catbox.moe/i6xnop0lfk5iiymk.jpeg)
