@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://litter.catbox.moe/8ch77brukm2tfcbh.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/9jz9tp.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 </p>
 
 <p align="center">
-  <img src="https://litter.catbox.moe/6qb0lkaepu1drklr.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/zclapp.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://litter.catbox.moe/9nl90yrovkk4hkpg.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/mpamr0.png"style="width: 100%; height: auto;" />
 </p>
 
