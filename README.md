@@ -8,7 +8,9 @@
     <img src="https://komarev.com/ghpvc/?username=vendanski&label=widows&base=3029&color=1b3b3b">
 </p>
 
-
+<p align="center">
+  <img src="https://files.catbox.moe/3dzi4l.png"style="width: 100%; height: auto;" />
+</p>
  
 <p align="center">
   <img src="https://files.catbox.moe/d30pyu.png"style="width: 55%; height: auto;" />
