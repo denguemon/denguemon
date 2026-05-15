@@ -14,6 +14,8 @@
   <img src="https://files.catbox.moe/d30pyu.png"style="width: 55%; height: auto;" />
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4BF9E&width=1000&lines=Straw" alt="Typing SVG" /></a>
+
 <p align="center">
   <img src="https://files.catbox.moe/8dr6gh.png"style="width: 80%; height: auto;" />
 </p>
