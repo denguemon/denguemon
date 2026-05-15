@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://files.catbox.moe/d4s9po.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/o3pngz.png"style="width: 100%; height: auto;" />
 </p>
 
 
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/wluz01.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/s64eof.png"style="width: 100%; height: auto;" />
 </p>
 
 
