@@ -1,21 +1,21 @@
 
 <p align="center">
-  <img src="https://litter.catbox.moe/jw2iuzjg78xgfl5m.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/d4s9po.png"style="width: 100%; height: auto;" />
 </p>
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vendanski&label=visitors!&base=3029&color=60A629">
+    <img src="https://komarev.com/ghpvc/?username=vendanski&label=visitors!&base=3029&color=1b3b3b">
 </p>
 
 
  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afb91e38-f2e6-48be-b7f9-92ec273b6fc1"style="width: 190%; height: auto;" />
+  <img src="https://files.catbox.moe/hqa0t1.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/5el8nh.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/8dr6gh.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/5el8nh.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/8dr6gh.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/mpamr0.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/wluz01.png"style="width: 100%; height: auto;" />
 </p>
 
 
