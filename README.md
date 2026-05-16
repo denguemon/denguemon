@@ -16,7 +16,7 @@
 </p>
  
 <p align="center">
-  <img src="https://files.catbox.moe/d30pyu.png"style="width: 55%; height: auto;" />
+  <img src="https://files.catbox.moe/d30pyu.png"style="width: 67%; height: auto;" />
 </p>
 
 
