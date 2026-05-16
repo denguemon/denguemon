@@ -3,13 +3,16 @@
   <img src="https://files.catbox.moe/c87e3g.png"style="width: 100%; height: auto;" />
 </p>
 
+<p align="center">
+  <img src="https://files.catbox.moe/odfybg.png"style="width: 30%; height: auto;" />
+</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=vendanski&label=widows&base=3029&color=1b3b3b">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/w391tj.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/odfybg.png"style="width: 30%; height: auto;" />
 </p>
  
 <p align="center">
