@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://files.catbox.moe/c87e3g.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/9j58fg.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/odfybg.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/8bufb1.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -12,21 +12,21 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/odfybg.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/8bufb1.png"style="width: 30%; height: auto;" />
 </p>
  
 <p align="center">
-  <img src="https://files.catbox.moe/u23ihe.png"style="width: 67%; height: auto;" />
+  <img src="https://files.catbox.moe/5rqrc5.png"style="width: 67%; height: auto;" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/8dr6gh.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/mdsmnv.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/qoruhf.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/db301u.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/8dr6gh.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/mdsmnv.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/hs1o1k.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/o5m9ma.png"style="width: 100%; height: auto;" />
 </p>
 
 
