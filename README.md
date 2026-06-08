@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/8bufb1.png"style="width: 30%; height: auto;" />
+  <img src="https://litter.catbox.moe/mqxz8aq6mci87b0f.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/8bufb1.png"style="width: 30%; height: auto;" />
+  <img src="https://litter.catbox.moe/mqxz8aq6mci87b0f.png"style="width: 30%; height: auto;" />
 </p>
  
 <p align="center">
@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/mdsmnv.png"style="width: 80%; height: auto;" />
+  <img src="https://litter.catbox.moe/z509h2mfg9n3sx4i.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/mdsmnv.png"style="width: 80%; height: auto;" />
+  <img src="https://litter.catbox.moe/z509h2mfg9n3sx4i.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
