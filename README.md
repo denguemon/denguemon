@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://files.catbox.moe/5yp00e.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/wudezp.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/8bufb1.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/7x7fsw.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vendanski&label=widows&base=3029&color=81a7af">
+    <img src="https://komarev.com/ghpvc/?username=vendanski&label=widows&base=3029&color=792D50">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/8bufb1.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/7x7fsw.png"style="width: 30%; height: auto;" />
 </p>
  
 <p align="center">
-  <img src="https://files.catbox.moe/5rqrc5.png"style="width: 67%; height: auto;" />
+  <img src="https://files.catbox.moe/efy890.png"style="width: 67%; height: auto;" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/mdsmnv.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/mkm295.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/n92nay.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/vwktu7.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/mdsmnv.png"style="width: 80%; height: auto;" />
+  <img src="https://files.catbox.moe/mkm295.png"style="width: 80%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/omaev2.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/4jj8m2.png"style="width: 100%; height: auto;" />
 </p>
 
 
