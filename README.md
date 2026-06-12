@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vendanski&label=widows&base=3029&color=614544">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=widows&left_color=%23dc875c&right_color=%23614544&format=true">
 </p>
 
 <p align="center">
