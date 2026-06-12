@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/3vjzdb.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/mqu7x3.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/3vjzdb.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/mqu7x3.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
