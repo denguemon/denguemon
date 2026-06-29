@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=widows&left_color=%23dc875c&right_color=%23614544&format=true">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=widows&left_color=%23dc875c&right_color=%23614544&format=true"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=C77B55&color=5A403F">
 </p>
 
 <p align="center">
