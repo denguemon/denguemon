@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/8lhh8a.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/sgm8oi.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ys0hc6.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/sgm8oi.png"style="width: 100%; height: auto;" />
 </p>
 
 
