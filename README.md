@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/099abv.png"style="width: 50%; height: auto;" />
+<img src="https://files.catbox.moe/4s7c57.png"style="width: 57%; height: auto;" />
 
 <p align="center">
   <a href="https://add4.straw.page/">
