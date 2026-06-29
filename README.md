@@ -15,7 +15,7 @@
 </p>
  
 <p align="center">
-  <img src="https://files.catbox.moe/psdav8.png"style="width: 67%; height: auto;" />
+  <img src="https://files.catbox.moe/099abv.png"style="width: 50%; height: auto;" /><img src="https://files.catbox.moe/vkxao0.png"style="width: 50%; height: auto;" />
 </p>
 
 
