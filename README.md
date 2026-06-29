@@ -17,9 +17,19 @@
 <p align="center">
 <img src="https://files.catbox.moe/4s7c57.png"style="width: 57%; height: auto;" />
 
-<p align="center">
-  <img src="https://files.catbox.moe/zb1k7l.png"style="width: 67%; height: auto;" />
-</p>
+<div align="center">
+  <table>
+  <tr>
+    <th>
+      $\color{C77B55}\normalsize{\texttt{sometimes i'm at the store, out on a walk, or}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{sleeping, so i may disconnect a lot due to that.}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{i'm also usually semi-afk or multitasking,}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{so i may not respond to most whispers!!}}$ <br>
+     $\color{C77B55}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{SIT WITH ME though sometimes i may not talk :3}}$ <br>
+    </th>
+  </tr>
+  </table>
 
 <p align="center">
   <a href="https://add4.straw.page/">
