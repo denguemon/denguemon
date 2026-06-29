@@ -13,9 +13,12 @@
 <p align="center">
   <img src="https://files.catbox.moe/mqu7x3.png"style="width: 30%; height: auto;" />
 </p>
- 
+
 <p align="center">
-<img src="https://files.catbox.moe/099abv.png"style="width: 50%; height: auto;" /><img src="https://files.catbox.moe/jlbo2t.png"style="width: 10%; height: auto;" /><img src="https://files.catbox.moe/ar9hbz.png"style="width: 10%; height: auto;" /><img src="https://files.catbox.moe/7vsnxs.png"style="width: 10%; height: auto;" />
+<img src="https://files.catbox.moe/099abv.png"style="width: 50%; height: auto;" />
+
+<p align="center">
+<img src="https://files.catbox.moe/jlbo2t.png"style="width: 17%; height: auto;" /><img src="https://files.catbox.moe/ar9hbz.png"style="width: 17%; height: auto;" /><img src="https://files.catbox.moe/7vsnxs.png"style="width: 17%; height: auto;" />
 </p>
 
 
