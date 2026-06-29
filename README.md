@@ -21,12 +21,12 @@
   <table>
   <tr>
     <th>
-      $\color{C77B55}\normalsize{\texttt{sometimes i'm at the store, out on a walk, or}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{sleeping, so i may disconnect a lot due to that.}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{i'm also usually semi-afk or multitasking,}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{so i may not respond to most whispers!!}}$ <br>
-     $\color{C77B55}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{SIT WITH ME though sometimes i may not talk :3}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{sometimes i'm at a store, out on a walk, distracted or}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{taking small naps, so i may disconnect a lot due to that.}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{i'm also usually semi-afk or multitasking half the time}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry!!}}$ <br>
+     $\color{C77B55}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CANNN PLEASEE}}$ <br>
+      $\color{C77B55}\normalsize{\texttt{SIT WITH MEEEEE !!! though sometimes i may not talk :3}}$ <br>
     </th>
   </tr>
   </table>
