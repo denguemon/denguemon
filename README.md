@@ -42,7 +42,7 @@
   <summary>$$\color{#C77B55}\text{work\ in\ progress!}$$</summary>
   <br>
   
-  This hidden content will still be normal text.
+  .
 </details>
 </div>
 
