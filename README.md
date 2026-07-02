@@ -39,10 +39,10 @@
 
 <div align="center">
 <details>
-  <summary><b>w.i.p</b></summary>
+  <summary>$$\color{#C77B55}\text{work\ in\ progress!}$$</summary>
   <br>
   
-  hi mijo
+  This hidden content will still be normal text.
 </details>
 </div>
 
