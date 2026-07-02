@@ -37,7 +37,14 @@
   
 </p>
 
-
+<div align="center">
+<details>
+  <summary><b>w.i.p</b></summary>
+  <br>
+  
+  hi mijo
+</details>
+</div>
 
 <p align="center">
   <img src="https://files.catbox.moe/u1405p.png"style="width: 30%; height: auto;" />
