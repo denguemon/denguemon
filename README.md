@@ -14,8 +14,26 @@
   <img src="https://files.catbox.moe/u1405p.png"style="width: 30%; height: auto;" />
 </p>
 
-<p align="center">
-<img src="https://files.catbox.moe/4s7c57.png"style="width: 57%; height: auto;" />
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle" width="30%">
+        <img src="https://files.catbox.moe/4s7c57.png" alt="Project Visual" width="100%"/>
+      </td>
+      <td align="center" valign="middle" width="10%">
+        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/jlbo2t.png" alt="Button 1"/></a>
+        <br/><br/>
+        <a href="https://altorocito.atabook.org/"><img src="https://files.catbox.moe/ar9hbz.png" alt="Button 2"/></a>
+        <br/><br/>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/7vsnxs.png" alt="Button 3"/></a>
+        <br/><br/>
+        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/irfji7.png" alt="Button 4"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 <div align="center">
   <table>
