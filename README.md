@@ -35,7 +35,18 @@
 
 
 
+
+
+
+  
+</p>
+
 <div align="center">
+<details>
+  <summary>$$\color{#C77B55}\text{small\ byi}$$</summary>
+  <br>
+  
+  <div align="center">
   <table>
   <tr>
     <th>
@@ -48,17 +59,6 @@
     </th>
   </tr>
   </table>
-
-
-  
-</p>
-
-<div align="center">
-<details>
-  <summary>$$\color{#C77B55}\text{work\ in\ progress!}$$</summary>
-  <br>
-  
-  .
 </details>
 </div>
 
