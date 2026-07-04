@@ -78,7 +78,7 @@
 
 As a young adult, Samon was in an army band and became known for singing humorous songs. According to LinDa Saphan, Samon and Yol Aularong "were the only singers and songwriters who were making social commentary through their songs." Samon in particular "used humor to draw attention to social conventions around relationships." Samon collaborated with several contemporary artists, such as Pan Ron, Sinn Sisamouth, Huoy Meas, and several duets with So Savoeun.
 
-According to the 2015 documentary Don't Think I've Forgotten, he was caught playing music at a work camp during the Khmer Rouge regime. He was told to stop, and when caught a second time, he was taken away and imprisoned or executed. Decades later, he became better known to Western audiences after appearing on compilations of Cambodian psychedelic and garage rock music, such as the influential Cambodian Rocks (1996), Cambodian Cassette Archives: Khmer Folk & Pop Music (2004), and Groove Club Vol. 2: Cambodia Rock Spectacular! (2010).
+According to the 2015 documentary Don't Think I've Forgotten, he was caught playing music at a work camp during the Khmer Rouge regime. He was told to stop, and when caught a second time, he was taken away, and not heard from again. Decades later, he became better known to Western audiences after appearing on compilations of Cambodian psychedelic and garage rock music, such as the influential Cambodian Rocks (1996), Cambodian Cassette Archives: Khmer Folk & Pop Music (2004), and Groove Club Vol. 2: Cambodia Rock Spectacular! (2010).
 
 He Was uncredited as a performer in the film, The Joy of Living (la joie de vivre 1968). he Was also featured in the horror film, Crocodile Man.
 
