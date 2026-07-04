@@ -80,6 +80,8 @@ As a young adult, Samon was in an army band and became known for singing humorou
 
 According to the 2015 documentary Don't Think I've Forgotten, he was caught playing music at a work camp during the Khmer Rouge regime. He was told to stop, and when caught a second time, he was taken away and imprisoned or executed. Decades later, he became better known to Western audiences after appearing on compilations of Cambodian psychedelic and garage rock music, such as the influential Cambodian Rocks (1996), Cambodian Cassette Archives: Khmer Folk & Pop Music (2004), and Groove Club Vol. 2: Cambodia Rock Spectacular! (2010).
 
+He's got music of multiple genres, usually Psychedelic rock, traditional, ramvong, and many more.
+
 He Was uncredited as a performer in the film, The Joy of Living (la joie de vivre 1968). he Was also featured in the horror film, Crocodile Man.
 
 (next to this text is a clip of him in the joy of living)
@@ -87,9 +89,11 @@ He Was uncredited as a performer in the film, The Joy of Living (la joie de vivr
 ...oh yeah, and the mustache is fake. it's a comedy prop, likely inspired by charlie chaplin, who was an English actor, filmmaker, composer, and singer ^_^
       </td>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/pn7xe2.png"/>
+
         
 https://github.com/user-attachments/assets/88cce0dd-dd87-48c5-9958-ccd8a73af99d
+
+https://github.com/user-attachments/assets/bf942f1b-ab72-4374-991b-42e3aa73619e
 
 https://github.com/user-attachments/assets/a086c996-0f66-4aac-9a5a-db37b311b251
 
