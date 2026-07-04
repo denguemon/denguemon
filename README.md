@@ -84,7 +84,7 @@ He Was uncredited as a performer in the film, The Joy of Living (la joie de vivr
 
 (next to this text is a clip of him in the joy of living)
 
-...oh yeah, and the mustache is fake. it's a comedy prop ^_^
+...oh yeah, and the mustache is fake. it's a comedy prop, likely inspired by charlie chaplin, who was an English actor, filmmaker, composer, and singer ^_^
       </td>
       <td align="center" valign="middle" width="30%">
         <img src="https://files.catbox.moe/pn7xe2.png"/>
