@@ -74,7 +74,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="20%; height: auto;">
-( wip . )        Meas Samon (Khmer: មាស សាម៉ន) was a Cambodian singer and comedian, active in that country's psychedelic rock scene of the late 1960s and early 1970s.
+        Meas Samon (Khmer: មាស សាម៉ន) was a Cambodian singer and comedian, active in that country's psychedelic rock scene of the late 1960s and early 1970s.
 
 As a young adult, Samon was in an army band and became known for singing humorous songs. According to LinDa Saphan, Samon and Yol Aularong "were the only singers and songwriters who were making social commentary through their songs." Samon in particular "used humor to draw attention to social conventions around relationships." Samon collaborated with several contemporary artists, such as Pan Ron, Sinn Sisamouth, Huoy Meas, and several duets with So Savoeun.
 
