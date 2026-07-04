@@ -62,6 +62,39 @@
 </details>
 </div>
 
+
+<div align="center">
+<details>
+  <summary>$$\color{#C77B55}\text{who\ is\ this\ page\ decorated\ with?}$$</summary>
+  <br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle" width="20%; height: auto;">
+( wip . )        Meas Samon (Khmer: មាស សាម៉ន) was a Cambodian singer and comedian, active in that country's psychedelic rock scene of the late 1960s and early 1970s.
+
+As a young adult, Samon was in an army band and became known for singing humorous songs. According to LinDa Saphan, Samon and Yol Aularong "were the only singers and songwriters who were making social commentary through their songs." Samon in particular "used humor to draw attention to social conventions around relationships." Samon collaborated with several contemporary artists, such as Pan Ron, Sinn Sisamouth, Huoy Meas, and several duets with So Savoeun.
+
+According to the 2015 documentary Don't Think I've Forgotten, he was caught playing music at a work camp during the Khmer Rouge regime. He was told to stop, and when caught a second time, he was taken away and imprisoned or executed. Decades later, he became better known to Western audiences after appearing on compilations of Cambodian psychedelic and garage rock music, such as the influential Cambodian Rocks (1996), Cambodian Cassette Archives: Khmer Folk & Pop Music (2004), and Groove Club Vol. 2: Cambodia Rock Spectacular! (2010).
+
+He Was uncredited as a performer in the film, The Joy of Living (la joie de vivre 1968). he Was also featured in the horror film, Crocodile Man.
+      </td>
+      <td align="center" valign="middle" width="30%">
+        <img src="https://files.catbox.moe/qjgyqx.jpeg"/>
+
+https://github.com/user-attachments/assets/a086c996-0f66-4aac-9a5a-db37b311b251
+
+    
+  </tr>
+  </table>
+</details>
+</div>
+
+
+
+
+
 <p align="center">
   <img src="https://files.catbox.moe/u1405p.png"style="width: 30%; height: auto;" />
 </p>
