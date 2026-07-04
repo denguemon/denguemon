@@ -87,7 +87,7 @@ He Was uncredited as a performer in the film, The Joy of Living (la joie de vivr
 ...oh yeah, and the mustache is fake. it's a comedy prop ^_^
       </td>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/zqlnqe.png"/>
+        <img src="https://files.catbox.moe/pn7xe2.png"/>
         
 https://github.com/user-attachments/assets/88cce0dd-dd87-48c5-9958-ccd8a73af99d
 
