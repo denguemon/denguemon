@@ -45,19 +45,19 @@
 
 <div align="center">
 <details>
-  <summary>$$\color{#C77B55}\text{small\ byi}$$</summary>
+  <summary>$$\color{#D3B25A}\text{small\ byi}$$</summary>
   <br>
   
   <div align="center">
   <table>
   <tr>
     <th>
-      $\color{C77B55}\normalsize{\texttt{sometimes i'm at a store, out on a walk, distracted or taking small naps}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{ so i may disconnect a lot due to that, or because my wifi is tweaking.}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{i'm also usually semi-afk or multitasking most of the time}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry abt that!!}}$ <br>
-     $\color{C77B55}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN C+H! SIT WITH ME!}}$ <br>
-      $\color{C77B55}\normalsize{\texttt{though sometimes i may not talk, so pardon my lack of talking :3}}$ <br>
+      $\color{D3B25A}\normalsize{\texttt{sometimes i'm at a store, out on a walk, distracted or taking small naps}}$ <br>
+      $\color{D3B25A}\normalsize{\texttt{ so i may disconnect a lot due to that, or because my wifi is tweaking.}}$ <br>
+      $\color{D3B25A}\normalsize{\texttt{i'm also usually semi-afk or multitasking most of the time}}$ <br>
+      $\color{D3B25A}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry abt that!!}}$ <br>
+     $\color{D3B25A}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN C+H! SIT WITH ME!}}$ <br>
+      $\color{D3B25A}\normalsize{\texttt{though sometimes i may not talk, so pardon my lack of talking :3}}$ <br>
     </th>
   </tr>
   </table>
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=DC875C&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=D3B25A&bar_color_cover=false">
   </a>
 </p>
 
