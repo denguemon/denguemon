@@ -1,35 +1,35 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/qkakgk.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/575les.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/u1405p.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=widows&left_color=%23dc875c&right_color=%23614544&format=true"> <image src="https://files.catbox.moe/3bpzh8.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=C77B55&color=5A403F">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=widows&left_color=%D3B25Ae&right_color=%38575D&format=true"> <image src="https://files.catbox.moe/vjdv1g.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=D3B25A&color=38575D">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/u1405p.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
 </p>
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/4s7c57.png" alt="Project Visual" width="100%"/>
+        <img src="https://files.catbox.moe/x0l12m.png" alt="Project Visual" width="53%"/>
       </td>
       <td align="center" valign="middle" width="10%">
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/jlbo2t.png" alt="Button 1"/></a>
+        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/oye40s.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://altorocito.atabook.org/"><img src="https://files.catbox.moe/ar9hbz.png" alt="Button 2"/></a>
+        <a href="https://altorocito.atabook.org/"><img src="https://files.catbox.moe/49bmgo.png" alt="Button 2"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/7vsnxs.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/ea9ptm.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/irfji7.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/wlkm5r.png" alt="Button 4"/></a>
       </td>
     </tr>
   </table>
@@ -67,11 +67,11 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/u1405p.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/w3rjwu.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/fxa1v4.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -81,11 +81,11 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/u1405p.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/te74qi.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/cvidwe.png"style="width: 100%; height: auto;" />
 </p>
 
 
