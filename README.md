@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=widows&left_color=%D3B25Ae&right_color=%38575D&format=true"> <image src="https://files.catbox.moe/vjdv1g.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=D3B25A&color=38575D">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=widows&left_color=%23D3B25A&right_color=%2338575D&format=true"> <image src="https://files.catbox.moe/vjdv1g.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=D3B25A&color=38575D">
 </p>
 
 <p align="center">
