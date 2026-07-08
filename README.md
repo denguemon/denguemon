@@ -20,7 +20,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/x0l12m.png" alt="Project Visual" width="53%"/>
+        <img src="https://files.catbox.moe/0uj6rw.gif" alt="Project Visual" width="53%"/>
       </td>
       <td align="center" valign="middle" width="10%">
         <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/oye40s.png" alt="Button 1"/></a>
