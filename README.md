@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/nn2433.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/575les.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/xp95xr.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/cvidwe.png"style="width: 100%; height: auto;" />
 </p>
 
 
