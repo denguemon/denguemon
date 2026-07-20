@@ -45,7 +45,8 @@
 <p align="center">
   <a href="https://github.com/title-town"><kbd><b>title town</b></kbd></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pt-players"><kbd><b>pt players</b></kbd></a>
+  <a href="https://github.com/pt-players"><kbd><b>pt players</b></kbd></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pt-walk-of-fame"><kbd><b>pt walk of fame</b></kbd></a>
 </p>
 
 
