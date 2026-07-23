@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=38575D&labelColor=D3B25A"> <image src="https://files.catbox.moe/g5nl7x.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=D3B25A&color=38575D">
+<img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=38575D&labelColor=D3B25A"> 
 
 <p align="center">
   <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
