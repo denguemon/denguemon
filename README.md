@@ -38,21 +38,10 @@
 
 
 
+##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame)</p>
 
   
 </p>
-
-<p align="center">
-  <a href="https://github.com/title-town"><kbd><b>title town</b></kbd></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pt-players"><kbd><b>pt players</b></kbd></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pt-walk-of-fame"><kbd><b>pt walk of fame</b></kbd></a>
-</p>
-
-
-
-
-
 
 
 <div align="center">
