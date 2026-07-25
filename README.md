@@ -22,6 +22,8 @@
         <img src="https://files.catbox.moe/0uj6rw.gif" alt="Project Visual" width="53%"/>
       </td>
       <td align="center" valign="middle" width="10%">
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/xotg3d.png" alt="Button 1"/></a>
+        <br/><br/>
         <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/oye40s.png" alt="Button 1"/></a>
         <br/><br/>
         <a href="https://altorocito.atabook.org/"><img src="https://files.catbox.moe/49bmgo.png" alt="Button 2"/></a>
@@ -29,6 +31,8 @@
         <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/ea9ptm.png" alt="Button 3"/></a>
         <br/><br/>
         <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/wlkm5r.png" alt="Button 4"/></a>
+        <br/><br/>
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/l8kme2.png" alt="Button 1"/></a>
       </td>
     </tr>
   </table>
