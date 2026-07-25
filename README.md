@@ -23,7 +23,7 @@
         <img src="https://files.catbox.moe/t7fcxl.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
-        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/xotg3d.png" alt="Button 1"/></a>
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/cg25q5.png" alt="Border 1"/></a>
         <br/><br/>
         <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/oye40s.png" alt="Button 1"/></a>
         <br/><br/>
@@ -33,7 +33,7 @@
         <br/><br/>
         <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/wlkm5r.png" alt="Button 4"/></a>
         <br/><br/>
-        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/l8kme2.png" alt="Button 1"/></a>
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/6cx9iz.png" alt="Border 2"/></a>
       </td>
     </tr>
   </table>
