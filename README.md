@@ -20,6 +20,7 @@
     <tr>
       <td align="center" valign="middle" width="30%">
         <img src="https://files.catbox.moe/0uj6rw.gif" alt="Project Visual" width="59%"/>
+        <img src="https://files.catbox.moe/t7fcxl.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/xotg3d.png" alt="Button 1"/></a>
