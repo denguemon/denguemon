@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://www.last.fm/user/vendanski">
     <img src="https://lastfm-recently-played.vercel.app/api?user=vendanski&count=1&loved=true&loved_style=2&bg_color=335E5F&show_user=always">
   </a>
 </p>
