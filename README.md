@@ -43,7 +43,7 @@
 
 
 
-##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media)</p>
+##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion)</p>
 
   
 </p>
