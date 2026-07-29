@@ -27,7 +27,7 @@
         <br/><br/>
         <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/oye40s.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://litter.catbox.moe/azx207.png" alt="Button 2"/></a>
+        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/49bmgo.png" alt="Button 2"/></a>
         <br/><br/>
         <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/ea9ptm.png" alt="Button 3"/></a>
         <br/><br/>
