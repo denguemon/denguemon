@@ -19,21 +19,21 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/0uj6rw.gif" alt="Project Visual" width="59%"/>
+        <img src="https://files.catbox.moe/nslq4s.png" alt="Project Visual" width="59%"/>
         <img src="https://files.catbox.moe/t7fcxl.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/cg25q5.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/oye40s.png" alt="Button 1"/></a>
+        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/os29k4.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/49bmgo.png" alt="Button 2"/></a>
+        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/46ewef.png" alt="Button 2"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/ea9ptm.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/04z7nc.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/wlkm5r.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/w91xjc.png" alt="Button 4"/></a>
         <br/><br/>
-        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/6cx9iz.png" alt="Border 2"/></a>
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/yslznv.png" alt="Border 2"/></a>
       </td>
     </tr>
   </table>
