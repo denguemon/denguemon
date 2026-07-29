@@ -1,39 +1,39 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/hvfewi.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/f3y30w.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
-<img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=38575D&labelColor=D3B25A"> <image src="https://files.catbox.moe/g5nl7x.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=D3B25A&color=38575D">
+<img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=E18B64&labelColor=FFEFA9"> <image src="https://files.catbox.moe/qv17gs.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=FFEFA9&color=E18B64">
 
 <p align="center">
-  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
 </p>
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/nslq4s.png" alt="Project Visual" width="63%"/>
-        <img src="https://files.catbox.moe/t7fcxl.png" alt="Project Visual" width="100%"/>
+        <img src="https://files.catbox.moe/qcha0o.png" alt="Project Visual" width="72%"/>
+        <img src="https://files.catbox.moe/q6bsh1.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
-        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/cg25q5.png" alt="Border 1"/></a>
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/os4yrd.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/os29k4.png" alt="Button 1"/></a>
+        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/99j8od.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/46ewef.png" alt="Button 2"/></a>
+        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/v48l5k.png" alt="Button 2"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/04z7nc.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/tj4xrq.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/w91xjc.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/q6es4o.png" alt="Button 4"/></a>
         <br/><br/>
-        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/yslznv.png" alt="Border 2"/></a>
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/3qm8ux.png" alt="Border 2"/></a>
       </td>
     </tr>
   </table>
@@ -51,20 +51,20 @@
 
 <div align="center">
 <details>
-  <summary>$$\color{#6c7e5d}\text{small\ byi}$$</summary>
+  <summary>$$\color{#4E7279}\text{small\ byi}$$</summary>
   <br>
   
   <div align="center">
   <table>
   <tr>
     <th>
-      $\color{D3B25A}\normalsize{\texttt{sometimes i'm at a store, out on a walk, distracted or taking small naps}}$ <br>
-      $\color{B1A15B}\normalsize{\texttt{ so i may disconnect a lot due to that, or because my wifi is tweaking.}}$ <br>
-      $\color{8E905C}\normalsize{\texttt{i'm also usually semi-afk or multitasking most of the time}}$ <br>
-      $\color{637A5E}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry abt that!!}}$ <br>
-      $\color{637A5E}\normalsize{\texttt{i also might fall asleep while im online, 1AM-5AM or 6AM-12PM!}}$ <br>
-     $\color{335E5F}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN C+H! SIT WITH ME!}}$ <br>
-      $\color{335E5F}\normalsize{\texttt{though sometimes i may not talk, so pardon my lack of talking :3}}$ <br>
+      $\color{FFEFA9}\normalsize{\texttt{sometimes i'm at a store, out on a walk, distracted or taking small naps}}$ <br>
+      $\color{E18B64}\normalsize{\texttt{ so i may disconnect a lot due to that, or because my wifi is tweaking.}}$ <br>
+      $\color{FFEFA9}\normalsize{\texttt{i'm also usually semi-afk or multitasking most of the time}}$ <br>
+      $\color{E18B64}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry abt that!!}}$ <br>
+      $\color{FFEFA9}\normalsize{\texttt{i also might fall asleep while im online, 1AM-5AM or 6AM-12PM!}}$ <br>
+     $\color{E18B64}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN C+H! SIT WITH ME!}}$ <br>
+      $\color{FFEFA9}\normalsize{\texttt{though sometimes i may not talk, so pardon my lack of talking :3}}$ <br>
     </th>
   </tr>
   </table>
@@ -74,23 +74,23 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/fxa1v4.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/ng9k63.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
   <a href="https://www.last.fm/user/vendanski">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=38575D&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=4E7279&bar_color_cover=false">
 
 <p align="center">
-  <img src="https://files.catbox.moe/kfwd6a.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/wqobfa.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/4jvlil.png"style="width: 100%; height: auto;" />
 </p>
 
 
