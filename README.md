@@ -51,7 +51,7 @@
 
 <div align="center">
 <details>
-  <summary>$$\color{#4E7279}\text{small\ byi}$$</summary>
+  <summary>$$\color{#E18B64}\text{small\ byi}$$</summary>
   <br>
   
   <div align="center">
