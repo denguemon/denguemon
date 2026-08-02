@@ -20,7 +20,6 @@
         <img src="https://files.catbox.moe/5dkimi.png" alt="Project Visual" width="100%"/>
         <img src="https://files.catbox.moe/b96ufq.png" alt="Project Visual" width="130%"/>
         <img src="https://files.catbox.moe/zc1jww.png" alt="Project Visual" width="100%"/>
-        <img src="https://files.catbox.moe/be3ist.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/p52kb6.png" alt="Border 1"/></a>
