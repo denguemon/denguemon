@@ -23,13 +23,13 @@
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/p52kb6.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/99j8od.png" alt="Button 1"/></a>
+        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/lm5txd.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/v48l5k.png" alt="Button 2"/></a>
+        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/w1ixd1.png" alt="Button 2"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/tj4xrq.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/1eo6sz.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/q6es4o.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/hywi7n.png" alt="Button 4"/></a>
         <br/><br/>
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/cjcumu.png" alt="Border 2"/></a>
       </td>
