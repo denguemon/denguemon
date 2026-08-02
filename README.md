@@ -18,7 +18,6 @@
     <tr>
       <td align="center" valign="middle" width="30%">
         <img src="https://files.catbox.moe/b96ufq.png" alt="Project Visual" width="130%"/>
-        <img src="https://files.catbox.moe/3bmu4q.png" alt="Project Visual" width="70%"/>
         <img src="https://files.catbox.moe/5dkimi.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
