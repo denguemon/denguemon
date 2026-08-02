@@ -10,7 +10,7 @@
 <img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=E18B64&labelColor=FFEFA9"> <image src="https://files.catbox.moe/qv17gs.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=FFEFA9&color=E18B64">
 
 <p align="center">
-  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/nehw1v.png"style="width: 30%; height: auto;" />
 </p>
 
 <div align="center">
@@ -73,7 +73,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
+  <img src="https://files.catbox.moe/nehw1v.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
