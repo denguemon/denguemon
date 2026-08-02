@@ -4,9 +4,7 @@
   <img src="https://files.catbox.moe/w83jsi.png"style="width: 100%; height: auto;" />
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
-</p>
+
 
 <p align="center">
 <img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=E18B64&labelColor=FFEFA9"> <image src="https://files.catbox.moe/qv17gs.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=FFEFA9&color=E18B64">
@@ -85,9 +83,7 @@
   <a href="https://www.last.fm/user/vendanski">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=E18B64&bar_color_cover=false">
 
-<p align="center">
-  <img src="https://files.catbox.moe/47ahrt.png"style="width: 30%; height: auto;" />
-</p>
+
 
 <p align="center">
   <img src="https://files.catbox.moe/a5u0uk.png"style="width: 100%; height: auto;" />
