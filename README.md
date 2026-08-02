@@ -19,7 +19,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/qcha0o.png" alt="Project Visual" width="78%"/>
+        <img src="https://files.catbox.moe/qcha0o.png" alt="Project Visual" width="82%"/>
         <img src="https://files.catbox.moe/5dkimi.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
