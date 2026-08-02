@@ -19,8 +19,8 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/qcha0o.png" alt="Project Visual" width="72%"/>
-        <img src="https://files.catbox.moe/q6bsh1.png" alt="Project Visual" width="100%"/>
+        <img src="https://files.catbox.moe/qcha0o.png" alt="Project Visual" width="78%"/>
+        <img src="https://files.catbox.moe/5dkimi.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/p52kb6.png" alt="Border 1"/></a>
