@@ -14,28 +14,17 @@
 </p>
 
 <div align="center">
-  <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/qcha0o.png" alt="Project Visual" width="82%"/>
+        <img src="https://files.catbox.moe/qcha0o.png" alt="Project Visual" width="60%"/>
         <img src="https://files.catbox.moe/5dkimi.png" alt="Project Visual" width="100%"/>
-      </td>
-      <td align="center" valign="middle" width="10%">
-        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/p52kb6.png" alt="Border 1"/></a>
-        <br/><br/>
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/99j8od.png" alt="Button 1"/></a>
-        <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/v48l5k.png" alt="Button 2"/></a>
-        <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/tj4xrq.png" alt="Button 3"/></a>
-        <br/><br/>
-        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/q6es4o.png" alt="Button 4"/></a>
-        <br/><br/>
-        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/cjcumu.png" alt="Border 2"/></a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+  <p align="center">
+  <img src="https://files.catbox.moe/99j8od.png"style="width: 20%; height: auto;" /> 
+  <img src="https://files.catbox.moe/v48l5k.png"style="width: 20%; height: auto;" /> 
+  <img src="https://files.catbox.moe/tj4xrq.png"style="width: 20%; height: auto;" /> 
+  <img src="https://files.catbox.moe/q6es4o.png"style="width: 20%; height: auto;" />
+</p> 
 
 
 
