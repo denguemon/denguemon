@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=996A79&labelColor=D7D6AA"> <image src="https://files.catbox.moe/6mo7cm.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=D7D6AA&color=996A79">
+<img src="https://hits.sh/github.com/haidaware/hits.svg?label=widows&extraCount=12240&color=85BF98&labelColor=D7D6AA"> <image src="https://files.catbox.moe/6mo7cm.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=frogponds&labelColor=D7D6AA&color=85BF98">
 
 <p align="center">
   <img src="https://files.catbox.moe/o4z5if.png"style="width: 50%; height: auto;" />
@@ -51,7 +51,7 @@
 
 <div align="center">
 <details>
-  <summary>$$\color{#996A79}\text{small\ byi}$$</summary>
+  <summary>$$\color{#85BF98}\text{small\ byi}$$</summary>
   <br>
   
   <div align="center">
@@ -59,11 +59,11 @@
   <tr>
     <th>
       $\color{D7D6AA}\normalsize{\texttt{sometimes i'm at a store, out on a walk, distracted or taking small naps}}$ <br>
-      $\color{996A79}\normalsize{\texttt{ so i may disconnect a lot due to that, or because my wifi is tweaking.}}$ <br>
+      $\color{85BF98}\normalsize{\texttt{ so i may disconnect a lot due to that, or because my wifi is tweaking.}}$ <br>
       $\color{D7D6AA}\normalsize{\texttt{i'm also usually semi-afk or multitasking most of the time}}$ <br>
-      $\color{996A79}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry abt that!!}}$ <br>
+      $\color{85BF98}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry abt that!!}}$ <br>
       $\color{D7D6AA}\normalsize{\texttt{i also might fall asleep while im online, 1AM-5AM or 6AM-12PM!}}$ <br>
-     $\color{996A79}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN C+H! SIT WITH ME!}}$ <br>
+     $\color{85BF98}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN C+H! SIT WITH ME!}}$ <br>
       $\color{D7D6AA}\normalsize{\texttt{though sometimes i may not talk, so pardon my lack of talking :3}}$ <br>
     </th>
   </tr>
