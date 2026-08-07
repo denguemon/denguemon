@@ -41,7 +41,7 @@
 
 
 <h6 align="center">
-  $$\color{#996A79} ↓ $$   $$\color{#D7D6AA} ponytown $$   $$\color{#D7D6AA} rewards $$   $$\color{#996A79} ↓ $$
+  $$\color{#996A79} ↓ $$   $$\color{#D7D6AA} 𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻 $$   $$\color{#D7D6AA} 𝗿𝗲𝘄𝗮𝗿𝗱𝘀 $$   $$\color{#996A79} ↓ $$
 
 ##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations)</p>
 
