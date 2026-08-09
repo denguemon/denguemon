@@ -18,19 +18,19 @@
     <tr>
       <td align="center" valign="middle" width="30%">
         <img src="https://files.catbox.moe/x27ra4.png" alt="Project Visual" width="100%"/>
-        <img src="https://files.catbox.moe/uk5viw.png" alt="Project Visual" width="130%"/>
+        <img src="https://files.catbox.moe/vylfzc.png" alt="Project Visual" width="130%"/>
         <img src="https://files.catbox.moe/drtapf.png" alt="Project Visual" width="100%"/>
       </td>
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/ppxadi.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/6yvszz.png" alt="Button 1"/></a>
+        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/5oqmmn.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/hqi7gd.png" alt="Button 2"/></a>
+        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/vbg4h2.png" alt="Button 2"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/rcmdd3.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/2ssfev.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/l41sk8.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/yupjun"><img src="https://files.catbox.moe/xyv68v.png" alt="Button 4"/></a>
         <br/><br/>
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/kqs3qt.png" alt="Border 2"/></a>
       </td>
