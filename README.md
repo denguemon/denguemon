@@ -41,7 +41,7 @@
 
 
 <h6 align="center">
-  $$\color{#996A79} ↓ $$   $$\color{#D7D6AA} 𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻 $$   $$\color{#D7D6AA} 𝗿𝗲𝘄𝗮𝗿𝗱𝘀 $$   $$\color{#996A79} ↓ $$
+  $$\color{#85BF98} ↓ $$   $$\color{#D7D6AA} 𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻 $$   $$\color{#D7D6AA} 𝗿𝗲𝘄𝗮𝗿𝗱𝘀 $$   $$\color{#85BF98} ↓ $$
 
 ##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations)</p>
 
@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://www.last.fm/user/vendanski">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=D7D6AA&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=85BF98&bar_color_cover=false">
 
 
 
