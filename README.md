@@ -39,12 +39,23 @@
 </div>
 
 
+<div align="center">
+<details>
+  <summary>$$\color{#B87147}\text{ponytown\ rewards}$$</summary>
+  <br>
 
-<h6 align="center">
+<div align="center">
+  <table>
+  <tr>
+    <th>
   $$\color{#A3B869} ↓ $$   $$\color{#D8CEAA} 𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻 $$   $$\color{#D8CEAA} 𝗿𝗲𝘄𝗮𝗿𝗱𝘀 $$   $$\color{#A3B869} ↓ $$
 
 ##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations)</p>
-
+</th>
+  </tr>
+  </table>
+</details>
+</div>
   
 </p>
 
