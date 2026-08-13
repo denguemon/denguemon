@@ -69,13 +69,13 @@
   <table>
   <tr>
     <th>
-      $\color{D8CEAA}\normalsize{\texttt{sometimes i'm at a store, out on a walk, distracted or taking small naps}}$ <br>
-      $\color{A3B869}\normalsize{\texttt{ so i may disconnect a lot due to that, or because my wifi is tweaking.}}$ <br>
-      $\color{B87147}\normalsize{\texttt{i'm also usually semi-afk or multitasking most of the time}}$ <br>
-      $\color{D8CEAA}\normalsize{\texttt{so i may not respond to most whispers, so i'm very sorry abt that!!}}$ <br>
-      $\color{A3B869}\normalsize{\texttt{i also might fall asleep while im online, 1AM-5AM or 6AM-12PM!}}$ <br>
-     $\color{B87147}\normalsize{\texttt{i'm also a social butterfly so YESSS YOU CAN C+H! SIT WITH ME!}}$ <br>
-      $\color{D8CEAA}\normalsize{\texttt{though sometimes i may not talk, so pardon my lack of talking :3}}$ <br>
+      $\color{D8CEAA}\normalsize{\texttt{𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗶'𝗺 𝗮𝘁 𝗮 𝘀𝘁𝗼𝗿𝗲, 𝗼𝘂𝘁 𝗼𝗻 𝗮 𝘄𝗮𝗹𝗸, 𝗱𝗶𝘀𝘁𝗿𝗮𝗰𝘁𝗲𝗱 𝗼𝗿 𝘁𝗮𝗸𝗶𝗻𝗴 𝘀𝗺𝗮𝗹𝗹 𝗻𝗮𝗽𝘀}}$ <br>
+      $\color{A3B869}\normalsize{\texttt{ 𝘀𝗼 𝗶 𝗺𝗮𝘆 𝗱𝗶𝘀𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝗮 𝗹𝗼𝘁 𝗱𝘂𝗲 𝘁𝗼 𝘁𝗵𝗮𝘁, 𝗼𝗿 𝗯𝗲𝗰𝗮𝘂𝘀𝗲 𝗺𝘆 𝘄𝗶𝗳𝗶 𝗶𝘀 𝘁𝘄𝗲𝗮𝗸𝗶𝗻𝗴.}}$ <br>
+      $\color{B87147}\normalsize{\texttt{𝗶'𝗺 𝗮𝗹𝘀𝗼 𝘂𝘀𝘂𝗮𝗹𝗹𝘆 𝘀𝗲𝗺𝗶-𝗮𝗳𝗸 𝗼𝗿 𝗺𝘂𝗹𝘁𝗶𝘁𝗮𝘀𝗸𝗶𝗻𝗴 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗶𝗺𝗲}}$ <br>
+      $\color{D8CEAA}\normalsize{\texttt{𝘀𝗼 𝗶 𝗺𝗮𝘆 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗱 𝘁𝗼 𝗺𝗼𝘀𝘁 𝘄𝗵𝗶𝘀𝗽𝗲𝗿𝘀, 𝗮𝗻𝗱 𝗶'𝗺 𝘃𝗲𝗿𝘆 𝘀𝗼𝗿𝗿𝘆 𝗮𝗯𝘁 𝘁𝗵𝗮𝘁!!}}$ <br>
+      $\color{A3B869}\normalsize{\texttt{𝗶 𝗮𝗹𝘀𝗼 𝗺𝗶𝗴𝗵𝘁 𝗳𝗮𝗹𝗹 𝗮𝘀𝗹𝗲𝗲𝗽 𝘄𝗵𝗶𝗹𝗲 𝗶𝗺 𝗼𝗻𝗹𝗶𝗻𝗲, 𝟭𝗔𝗠-𝟱𝗔𝗠 𝗼𝗿 𝟲𝗔𝗠-𝟭𝟮𝗣𝗠 𝗘𝗦𝗧!}}$ <br>
+     $\color{B87147}\normalsize{\texttt{𝗶'𝗺 𝗮𝗹𝘀𝗼 𝗮 𝘀𝗼𝗰𝗶𝗮𝗹 𝗯𝘂𝘁𝘁𝗲𝗿𝗳𝗹𝘆 𝘀𝗼 𝗬𝗘𝗦𝗦𝗦 𝗬𝗢𝗨 𝗖𝗔𝗡 𝗖+𝗛! 𝗦𝗜𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘!}}$ <br>
+      $\color{D8CEAA}\normalsize{\texttt{𝘁𝗵𝗼𝘂𝗴𝗵 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗶 𝗺𝗮𝘆 𝗻𝗼𝘁 𝘁𝗮𝗹𝗸, 𝘀𝗼 𝗽𝗮𝗿𝗱𝗼𝗻 𝗺𝘆 𝗹𝗮𝗰𝗸 𝗼𝗳 𝘁𝗮𝗹𝗸𝗶𝗻𝗴 :𝟯}}$ <br>
     </th>
   </tr>
   </table>
