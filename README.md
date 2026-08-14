@@ -30,9 +30,9 @@
         <br/><br/>
         <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/dk5jew.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/jackiechan"><img src="https://files.catbox.moe/4288yr.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/4288yr.png" alt="Button 4"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/jackiecomms"><img src="https://files.catbox.moe/fgrmre.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/jackiecomms"><img src="https://files.catbox.moe/fgrmre.png" alt="Button 5"/></a>
         <br/><br/>
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/1eyyl2.png" alt="Border 2"/></a>
       </td>
