@@ -32,6 +32,8 @@
         <br/><br/>
         <a href="https://fluffle.cc/jackiechan"><img src="https://files.catbox.moe/4288yr.png" alt="Button 4"/></a>
         <br/><br/>
+        <a href="https://fluffle.cc/jackiecomms"><img src="https://files.catbox.moe/fgrmre.png" alt="Button 4"/></a>
+        <br/><br/>
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/1eyyl2.png" alt="Border 2"/></a>
       </td>
     </tr>
