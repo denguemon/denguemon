@@ -28,9 +28,9 @@
         <br/><br/>
         <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/3e1p78.png" alt="Button 2"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/fuxr2n.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/hg7teu.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/5osdhr.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/boxfi4.png" alt="Button 4"/></a>
         <br/><br/>
         <a href="https://fluffle.cc/jackiecomms"><img src="https://files.catbox.moe/8eh3x5.png" alt="Button 5"/></a>
         <br/><br/>
