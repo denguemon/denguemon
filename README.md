@@ -24,15 +24,15 @@
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/gafc5j.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/iytmhc.png" alt="Button 1"/></a>
+        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/r5s6s5.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/ge1ah0.png" alt="Button 2"/></a>
+        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/iwdw4b.png" alt="Button 2"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/xzi49w.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/rcw739.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/6ro476.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/c3g2by.png" alt="Button 4"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/jackiecomms"><img src="https://files.catbox.moe/4jr0el.png" alt="Button 5"/></a>
+        <a href="https://fluffle.cc/jackiecomms"><img src="https://files.catbox.moe/gj3npa.png" alt="Button 5"/></a>
         <br/><br/>
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/1eyyl2.png" alt="Border 2"/></a>
       </td>
