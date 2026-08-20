@@ -24,7 +24,7 @@
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/gafc5j.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://add4.straw.page/"><img src="https://files.catbox.moe/r5s6s5.png" alt="Button 1"/></a>
+        <a href="https://khomedy.straw.page/"><img src="https://files.catbox.moe/r5s6s5.png" alt="Button 1"/></a>
         <br/><br/>
         <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/iwdw4b.png" alt="Button 2"/></a>
         <br/><br/>
