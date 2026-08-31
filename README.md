@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img src="https://hits.sh/github.com/haidaware/hits.svg?label=marines&extraCount=12240&color=07A196&labelColor=D7CD6B"> <image src="https://files.catbox.moe/jzdgud.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=sergeants&labelColor=D7CD6B&color=07A196">
+<img src="https://hits.sh/github.com/haidaware/hits.svg?label=gigs&extraCount=12240&color=07A196&labelColor=D7CD6B"> <image src="https://files.catbox.moe/jzdgud.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat&label=yeopjeons&labelColor=D7CD6B&color=07A196">
 
 <p align="center">
   <img src="https://files.catbox.moe/pylwwf.png"style="width: 50%; height: auto;" />
