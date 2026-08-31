@@ -28,6 +28,8 @@
         <br/><br/>
         <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/v2m2z5.png" alt="Button 2"/></a>
         <br/><br/>
+        <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/fg09ks.png" alt="divider 1"/></a>
+        <br/><br/>
         <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/wu2jv7.png" alt="Button 3"/></a>
         <br/><br/>
         <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/1ovkmq.png" alt="Button 4"/></a>
