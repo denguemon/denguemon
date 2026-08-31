@@ -24,13 +24,13 @@
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/5epok8.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.straw.page/"><img src="https://files.catbox.moe/wvr3hn.png" alt="Button 1"/></a>
+        <a href="https://khomedy.straw.page/"><img src="https://files.catbox.moe/mvnu9c.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/sowzxe.png" alt="Button 2"/></a>
+        <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/v2m2z5.png" alt="Button 2"/></a>
         <br/><br/>
         <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/wu2jv7.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/no3ouh.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/1ovkmq.png" alt="Button 4"/></a>
         <br/><br/>
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/5a9ehy.png" alt="Border 2"/></a>
       </td>
