@@ -17,9 +17,9 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://files.catbox.moe/5kxna1.png" alt="Project Visual" width="100%"/>
+        <img src="https://files.catbox.moe/5kxna1.png" alt="Project Visual" width="102%"/>
         <img src="https://files.catbox.moe/gy9ib4.png" alt="Project Visual" width="130%"/>
-        <img src="https://files.catbox.moe/6a9emk.png" alt="Project Visual" width="100%"/>
+        <img src="https://files.catbox.moe/6a9emk.png" alt="Project Visual" width="102%"/>
       </td>
       <td align="center" valign="middle" width="10%">
         <a href="https://github.com/denguemon"><img src="https://files.catbox.moe/5epok8.png" alt="Border 1"/></a>
@@ -97,7 +97,7 @@
 
 <p align="center">
   <a href="https://www.last.fm/user/vendanski">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=07A196&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=07A196&bar_color_cover=false">
 
 
 
