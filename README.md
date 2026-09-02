@@ -1,4 +1,4 @@
-
+<!--- wait guys small inspiration is allowed but please dont fork my repository unless you’re looking for the code/layout of something on it plz dont take heavy inspiration from me without my permission 😭 </!--->
 
 <p align="center">
   <img src="https://files.catbox.moe/neivbt.png"style="width: 100%; height: auto;" />
