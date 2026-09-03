@@ -1,4 +1,4 @@
-<!--- wait guys small inspiration is allowed but please dont fork my repository unless you’re looking for the code/layout of something on it plz dont take heavy inspiration from me without my permission 😭 </!--->
+<!--- wait guys tiny inspiration is allowed but please dont fork my repository unless you’re looking for the code/layout of something on it plz dont take heavy inspiration from me without my permission 😭 </!--->
 
 <p align="center">
   <img src="https://files.catbox.moe/neivbt.png"style="width: 100%; height: auto;" />
@@ -52,7 +52,7 @@
     <th>
   $$\color{#07A196} ↓ $$   $$\color{#6CB581} 𝘁𝗵𝗮𝗻𝗸 $$   $$\color{#6CB581} 𝘆𝗼𝘂 $$   $$\color{#07A196} ↓ $$
 
-##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations)</p>
+##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations) ⠀ ⠀[pt friendships](https://github.com/pt-friendships)</p>
 </th>
   </tr>
   </table>
