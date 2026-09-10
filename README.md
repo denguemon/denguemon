@@ -52,7 +52,7 @@
     <th>
   $$\color{#07A196} ↓ $$   $$\color{#6CB581} 𝘁𝗵𝗮𝗻𝗸 $$   $$\color{#6CB581} 𝘆𝗼𝘂 $$   $$\color{#07A196} ↓ $$
 
-##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations) ⠀ ⠀[pt friendships](https://github.com/pt-friendships)</p>
+##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations) ⠀ ⠀[pt friendships](https://github.com/pt-friendships) ⠀ ⠀[pt heavyfictkin](https://github.com/pt-heavyfictkin)</p>
 </th>
   </tr>
   </table>
