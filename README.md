@@ -66,7 +66,7 @@ $\large\color{#E88985}{\text{꒰১}}$ <img src="https://hits.sh/github.com/haid
 </p>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2860.png"style="width: 30%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2867.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -74,7 +74,8 @@ $\large\color{#E88985}{\text{꒰১}}$ <img src="https://hits.sh/github.com/haid
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=BB3672&bar_color_cover=false">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&pause=4000&color=FDE2A3&center=true&vCenter=true&width=435&lines=%22+%EC%A2%85%EB%85%80%EC%84%9D%EC%9D%B4..+%EB%B2%8C.%EC%8D%A8.+%ED%95%B4%EA%B1%B0%EB%A6%84%EC%9D%B4%EB%9D%BC%EA%B3%A0+%2C+%EB%A7%90%ED%95%98%EB%8D%94%EB%9D%BC+!+!+%22+" alt="Typing SVG" /></a>
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2866.png"style="width: 50%; height: auto;" />
+</p>
   
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2827.png"style="width: auto; height: auto;" />
