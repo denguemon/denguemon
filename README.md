@@ -1,7 +1,7 @@
 <!--- wait guys tiny inspiration is allowed but please dont fork my repository unless you’re looking for the code/layout of something on it plz dont take heavy inspiration from me without my permission 😭 </!--->
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2730.png"style="width: 100%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2733.png"style="width: 100%; height: auto;" />
 </p>
 
 
@@ -102,7 +102,7 @@
 
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2731.png"style="width: 100%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2734.png"style="width: 100%; height: auto;" />
 </p>
 
 
