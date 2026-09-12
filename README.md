@@ -14,7 +14,7 @@ $\large\color{#E88985}{\text{꒰১}}$ <img src="https://hits.sh/github.com/haid
 </p>
 
   <p align="center">
-  <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2853.png" width="140" height="80"/></a> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2854.png" width="140" height="80"/></a> <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2855.png" width="140" height="80"/></a> <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2856.png" width="140" height="80"/></a>
+  <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2853.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2854.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2855.png" width="140" height="80"/></a> <a href="https://fluffle.cc/itimatusuzuka"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2856.png" width="140" height="80"/></a>
  </p>
 
  <div align="center">
