@@ -4,7 +4,7 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2826.png"style="width: auto; height: auto;" />
   
 <p align="center">
-$\large\color{#E88985}{\text{꒰১}}$ <img src="https://hits.sh/github.com/haidaware/hits.svg?label=riels&extraCount=12240&style=flat-square&color=BB3672&labelColor=FDE2A3"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2750.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=theatres&labelColor=FDE2A3&color=BB3672"> $\large\color{#E88985}{\text{໒꒱}}$
+$\large\color{#E88985}{\text{꒰১}}$ <img src="https://hits.sh/github.com/haidaware/hits.svg?label=venues&extraCount=12240&style=flat-square&color=BB3672&labelColor=FDE2A3"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2750.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=theatres&labelColor=FDE2A3&color=BB3672"> $\large\color{#E88985}{\text{໒꒱}}$
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2859.png"style="width: 1; height: 1;" />
