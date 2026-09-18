@@ -72,10 +72,6 @@
 <p align="center">
   <a href="https://www.last.fm/user/vendanski">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=BB3672&bar_color_cover=false">
-
-<p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2866.png"style="width: 50%; height: auto;" />
-</p>
   
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2827.png"style="width: auto; height: auto;" />
