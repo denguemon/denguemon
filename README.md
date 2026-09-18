@@ -14,7 +14,7 @@
 </p>
 
   <p align="center">
-  <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2880.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2881.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2882.png" width="140" height="80"/></a> <a href="https://fluffle.cc/itimatusuzuka"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_2883.png" width="140" height="80"/></a>
+  <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3030.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3031.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3032.png" width="140" height="80"/></a> <a href="https://fluffle.cc/itimatusuzuka"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3033.png" width="140" height="80"/></a>
  </p>
 
  <div align="center">
