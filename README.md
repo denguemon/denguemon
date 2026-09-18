@@ -17,6 +17,9 @@
   <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3101.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3102.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3103.png" width="140" height="80"/></a> <a href="https://fluffle.cc/serey"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3104.png" width="140" height="80"/></a>
  </p>
 
+<p align="center">
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3110.png"style="width: auto; height: auto;" /> 
+
  <div align="center">
 <details>
   <summary>$$\color{#B5FD1A}\text{𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻\ 𝗿𝗲𝘄𝗮𝗿𝗱𝘀}$$</summary>
@@ -72,9 +75,6 @@
 <p align="center">
   <a href="https://www.last.fm/user/vendanski">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=B6FD1C&bar_color_cover=false">
-
-<p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3110.png"style="width: auto; height: auto;" />
   
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3109.png"style="width: auto; height: auto;" />
