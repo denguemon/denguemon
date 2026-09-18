@@ -7,6 +7,10 @@
  <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3096.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=squids&extraCount=12240&style=flat-square&color=FF5655&labelColor=FCF3BD"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3098.png"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=splatfests&labelColor=FCF3BD&color=FF5655"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3095.png">
 
 <p align="center">
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3114.png"style="width: auto; height: auto;" /> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3113.png"style="width: auto; height: auto;" />
+   
+
+<p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3088.png"style="width: 1; height: 1;" />
 
   <p align="center">
