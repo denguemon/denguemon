@@ -14,7 +14,7 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3133.png"style="width: 1; height: 1;" />
 
   <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3094.png"style="width: 50%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3136.png"style="width: auto%; height: auto;" />
 </p>
 
   <p align="center">
