@@ -1,7 +1,7 @@
 <!--- wait guys tiny inspiration is allowed but please dont fork my repository unless you’re looking for the code/layout of something on it plz dont take heavy inspiration from me without my permission 😭 </!--->
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3106.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3108.png"style="width: auto; height: auto;" />
   
 <p align="center">
  <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3096.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=squids&extraCount=12240&style=flat-square&color=FF5655&labelColor=FCF3BD"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3098.png"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=splatfests&labelColor=FCF3BD&color=FF5655"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3095.png">
@@ -74,5 +74,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=B6FD1C&bar_color_cover=false">
   
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3107.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3109.png"style="width: auto; height: auto;" />
   
