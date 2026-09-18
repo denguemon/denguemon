@@ -4,7 +4,7 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2826.png"style="width: auto; height: auto;" />
   
 <p align="center">
- <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2871.gif"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=ghosts&extraCount=12240&style=flat-square&color=BB3672&labelColor=FDE2A3"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2750.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=homes&labelColor=FDE2A3&color=BB3672"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2872.gif">
+ <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2871.gif"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=squids&extraCount=12240&style=flat-square&color=BB3672&labelColor=FDE2A3"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2750.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=splatfests&labelColor=FDE2A3&color=BB3672"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2872.gif">
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3071.png"style="width: 1; height: 1;" />
@@ -14,7 +14,7 @@
 </p>
 
   <p align="center">
-  <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3030.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3031.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3032.png" width="140" height="80"/></a> <a href="https://fluffle.cc/serey"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3033.png" width="140" height="80"/></a>
+  <a href="https://khomedy.straw.page/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3082.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3083.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3084.png" width="140" height="80"/></a> <a href="https://fluffle.cc/serey"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3085.png" width="140" height="80"/></a>
  </p>
 
  <div align="center">
