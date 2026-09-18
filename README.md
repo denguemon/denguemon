@@ -4,7 +4,7 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_2826.png"style="width: auto; height: auto;" />
   
 <p align="center">
- <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2871.gif"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=venues&extraCount=12240&style=flat-square&color=BB3672&labelColor=FDE2A3"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2750.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=theatres&labelColor=FDE2A3&color=BB3672"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2872.gif">
+ <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2871.gif"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=ghosts&extraCount=12240&style=flat-square&color=BB3672&labelColor=FDE2A3"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2750.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=homes&labelColor=FDE2A3&color=BB3672"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_2872.gif">
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3024.png"style="width: 1; height: 1;" />
