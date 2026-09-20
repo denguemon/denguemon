@@ -35,7 +35,7 @@
     <th>
   $$\color{#B5FD1A} ↓ $$   $$\color{#01E5F1} 𝘁𝗵𝗮𝗻𝗸 $$   $$\color{#01E5F1} 𝘆𝗼𝘂 $$   $$\color{#B5FD1A} ↓ $$
 
-##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[owner of ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations) ⠀ ⠀[pt friendships](https://github.com/pt-friendships) ⠀ ⠀[pt heavyfictkin](https://github.com/pt-heavyfictkin) ⠀ ⠀[ponytown’s rewards](https://github.com/Ponytowns-rewards) ⠀ ⠀[kaotown](https://github.com/kaotown) ⠀ ⠀[music town](https://github.com/music-town) ⠀ ⠀[choco town](https://github.com/choco-town)</p>
+##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[owner of ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations) ⠀ ⠀[pt friendships](https://github.com/pt-friendships) ⠀ ⠀[pt heavyfictkin](https://github.com/pt-heavyfictkin) ⠀ ⠀[ponytown’s rewards](https://github.com/Ponytowns-rewards) ⠀ ⠀[kaotown](https://github.com/kaotown) ⠀ ⠀[music town](https://github.com/music-town) ⠀ ⠀[choco town](https://github.com/choco-town) ⠀ ⠀[pt icon](https://github.com/pt-icon)</p>
 </th>
   </tr>
   </table>
