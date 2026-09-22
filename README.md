@@ -4,7 +4,7 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3246.png"style="width: auto; height: auto;" />
   
 <p align="center">
- <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3249.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=squids&extraCount=12240&style=flat-square&color=688074&labelColor=688074"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3252.png"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=splatfests&labelColor=688074&color=688074"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3259.png">
+ <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3249.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=yeopjeons&extraCount=12240&style=flat-square&color=688074&labelColor=688074"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3252.png"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=flat-square&label=concerts&labelColor=688074&color=688074"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3259.png">
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3243.png"style="width: auto; height: auto;" /> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3244.png"style="width: auto; height: auto;" />
