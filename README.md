@@ -11,9 +11,10 @@
 
 <div align="center">
 
-$$\color{#9D977F}"\color{#788777}\space\text{you’re my river runnin' high ,}\color{#8C907C}\space\text{run deep run wild !}\color{#788777}\space\color{#9D977F}"$$
+$\color{#9D977F}\text{"}$ $\color{#788777}\text{you’re my river runnin' high ,}$ $\color{#8C907C}\text{run deep run wild !}$ $\color{#9D977F}\text{"}$
 
 </div>
+
 
 
 <p align="center">
