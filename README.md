@@ -18,7 +18,7 @@ $\color{#9D977F}\text{"}$ $\color{#788777}\text{you’re my river runnin' high ,
 
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3290.gif"style="width: 1; height: 1;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3595.png"style="width: 1; height: 1;" />
 
   <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3258.png"style="width: 50%; height: auto;" />
