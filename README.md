@@ -29,7 +29,7 @@ $\color{#0A889D}\text{"}$ $\color{#2FA497}\text{you’re my river runnin' high ,
  </p>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3783.png"style="width: auto; height: auto;" /> 
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3787.png"style="width: auto; height: auto;" /> 
 
  <div align="center">
 <details>
