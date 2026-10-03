@@ -68,7 +68,7 @@ $\color{#0A889D}\text{"}$ $\color{#2FA497}\text{you’re my river runnin' high ,
       $\color{95C58A}\normalsize{\texttt{𝗶 𝗮𝗹𝘀𝗼 𝗺𝗶𝗴𝗵𝘁 𝗳𝗮𝗹𝗹 𝗮𝘀𝗹𝗲𝗲𝗽 𝘄𝗵𝗶𝗹𝗲 𝗶𝗺 𝗼𝗻𝗹𝗶𝗻𝗲, 𝟭𝗔𝗠-𝟱𝗔𝗠 𝗼𝗿 𝟲𝗔𝗠-𝟭𝟮𝗣𝗠 𝗘𝗦𝗧!}}$ <br>
      $\color{3CA896}\normalsize{\texttt{𝗶'𝗺 𝗮𝗹𝘀𝗼 𝗮 𝘀𝗼𝗰𝗶𝗮𝗹 𝗯𝘂𝘁𝘁𝗲𝗿𝗳𝗹𝘆 𝘀𝗼 𝗬𝗘𝗦𝗦𝗦 𝗬𝗢𝗨 𝗖𝗔𝗡 𝗖+𝗛! 𝗦𝗜𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘!}}$ <br>
       $\color{95C58A}\normalsize{\texttt{𝘁𝗵𝗼𝘂𝗴𝗵 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗶 𝗺𝗮𝘆 𝗻𝗼𝘁 𝘁𝗮𝗹𝗸, 𝘀𝗼 𝗽𝗮𝗿𝗱𝗼𝗻 𝗺𝘆 𝗹𝗮𝗰𝗸 𝗼𝗳 𝘁𝗮𝗹𝗸𝗶𝗻𝗴 :𝟯}}$ <br>
-      $\color{3CA896}\normalsize{\texttt{ 𝗜 𝗮𝗹𝘀𝗼 𝗵𝗮𝘁𝗲 𝗯𝗲𝗶𝗻𝗴 𝗰𝗼𝘃𝗲𝗿𝗲𝗱, 𝗲𝘃𝗲𝗻 𝗮𝘀 𝗮 𝗷𝗼𝗸𝗲, 𝘀𝗼 𝘂𝗵.. 𝗱𝗼𝗻𝘁 𝗱𝗼 𝗱𝗮𝘁.}}$ <br>
+      $\color{3CA896}\normalsize{\texttt{ 𝗜 𝗮𝗹𝘀𝗼 𝗵𝗮𝘁𝗲 𝗯𝗲𝗶𝗻𝗴 𝗰𝗼𝘃𝗲𝗿𝗲𝗱, 𝘀𝗼 𝘂𝗵.. 𝗱𝗼𝗻𝘁 𝗱𝗼 𝗱𝗮𝘁.}}$ <br>
     </th>
   </tr>
   </table>
