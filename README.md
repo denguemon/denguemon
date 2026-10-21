@@ -1,46 +1,46 @@
 <!--- wait guys tiny inspiration is allowed but please dont fork my repository unless you’re looking for the code/layout of something on it plz dont take heavy inspiration from me without my permission 😭 </!--->
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3780.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4249.png"style="width: auto; height: auto;" />
   
 <p align="center">
-<image src="https://file.garden/an64hms_LR8WfCYE/IMG_3777.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3775.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=concerts&extraCount=12240&style=for-the-badge&color=62B590&labelColor=62B590"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=yupjunns&labelColor=30A597&color=30A597"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3776.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_3777.png">
+<image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4251.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=concerts&extraCount=12240&style=for-the-badge&color=8C7141&labelColor=8C7141"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=yupjunns&labelColor=8D2E37&color=8D2E37"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4252.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png">
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3778.png"style="width: auto; height: auto;" /> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3779.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4254.png"style="width: auto; height: auto;" /> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4255.png"style="width: auto; height: auto;" />
 
 <div align="center">
 
-$\color{#0A889D}\text{"}$ $\color{#2FA497}\text{you’re my river runnin' high ,}$ $\color{#8EC28B}\text{run deep run wild !}$ $\color{#0A889D}\text{"}$
+$\color{#8A2E37}\text{"}$ $\color{#8D2E37}\text{you’re my river runnin' high ,}$ $\color{#8A2E37}\text{run deep run wild !}$ $\color{#8D2E37}\text{"}$
 
 </div>
 
 
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3882.png"style="width: 1; height: 1;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4261.png"style="width: 1; height: 1;" />
 
   <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3774.png"style="width: 50%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4247.png"style="width: 50%; height: auto;" />
 </p>
 
   <p align="center">
-  <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3769.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3770.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3771.png" width="140" height="80"/></a> <a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_3772.png" width="140" height="80"/></a>
+  <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4257.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4258.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4259.png" width="140" height="80"/></a> <a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4260.png" width="140" height="80"/></a>
  </p>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3787.png"style="width: auto; height: auto;" /> 
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4248.png"style="width: auto; height: auto;" /> 
 
  <div align="center">
 <details>
-  <summary>$$\color{#0C869D}\text{𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻\ 𝗿𝗲𝘄𝗮𝗿𝗱𝘀}$$</summary>
+  <summary>$$\color{#8D2E37}\text{𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻\ 𝗿𝗲𝘄𝗮𝗿𝗱𝘀}$$</summary>
   <br>
 
 <div align="center">
   <table>
   <tr>
     <th>
-  $$\color{#0C869D} ↓ $$   $$\color{#3CA896} 𝘁𝗵𝗮𝗻𝗸 $$   $$\color{#3CA896} 𝘆𝗼𝘂 $$   $$\color{#0C869D} ↓ $$
+  $$\color{#8A2E37} ↓ $$   $$\color{#3CA896} 𝘁𝗵𝗮𝗻𝗸 $$   $$\color{#3CA896} 𝘆𝗼𝘂 $$   $$\color{#0C869D} ↓ $$
 
 ##### <p align="center"> [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[owner of ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations) ⠀ ⠀[pt friendships](https://github.com/pt-friendships) ⠀ ⠀[pt heavyfictkin](https://github.com/pt-heavyfictkin) ⠀ ⠀[ponytown’s rewards](https://github.com/Ponytowns-rewards) ⠀ ⠀[kaotown](https://github.com/kaotown) ⠀ ⠀[music town](https://github.com/music-town) ⠀ ⠀[choco town](https://github.com/choco-town) ⠀ ⠀[pt icon](https://github.com/pt-icon) ⠀ ⠀[pt ship nominations](https://github.com/pt-ship-nominations)</p>
 </th>
@@ -76,11 +76,11 @@ $\color{#0A889D}\text{"}$ $\color{#2FA497}\text{you’re my river runnin' high ,
 </div>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3774.png"style="width: 50%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4247.png"style="width: 50%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3773.png"style="width: 30%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4246.png"style="width: 30%; height: auto;" />
 </p>
 
 <p align="center">
@@ -88,5 +88,5 @@ $\color{#0A889D}\text{"}$ $\color{#2FA497}\text{you’re my river runnin' high ,
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=0C869D&bar_color_cover=false">
   
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_3781.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4250.png"style="width: auto; height: auto;" />
   
