@@ -33,7 +33,7 @@
 
  <div align="center">
 <details>
-  <summary>$$\color{#8D2E37}\text{𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻\ 𝗿𝗲𝘄𝗮𝗿𝗱𝘀}$$</summary>
+  <summary>$$\color{#889A47}\text{𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻\ 𝗿𝗲𝘄𝗮𝗿𝗱𝘀}$$</summary>
   <br>
 
 <div align="center">
