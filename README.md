@@ -11,7 +11,7 @@
 
 <div align="center">
 
-$\color{#8A2E37}\text{"}$ $\color{#8D2E37}\text{you’re my river runnin' high ,}$ $\color{#8A2E37}\text{run deep run wild !}$ $\color{#8D2E37}\text{"}$
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=10&duration=12000&pause=5000&color=8A2E37&center=true&vCenter=true&width=435&lines=%22+you%E2%80%99re+my+river+runnin'+high+%2C+run+deep+run+wild+!+%22" alt="Typing SVG" /></a>
 
 </div>
 
