@@ -85,7 +85,7 @@ $\color{#8A2E37}\text{"}$ $\color{#8D2E37}\text{you’re my river runnin' high ,
 
 <p align="center">
   <a href="https://www.last.fm/user/vendanski">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=1C3F38D&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=8C7141&bar_color_cover=false">
   
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4250.png"style="width: auto; height: auto;" />
