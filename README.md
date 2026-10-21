@@ -80,7 +80,7 @@ $\color{#8A2E37}\text{"}$ $\color{#8D2E37}\text{you’re my river runnin' high ,
 </p>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4246.png"style="width: 30%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4297.png"style="width: 20%; height: auto;" />
 </p>
 
 <p align="center">
