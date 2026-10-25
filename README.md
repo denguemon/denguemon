@@ -4,7 +4,7 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4249.png"style="width: auto; height: auto;" />
   
 <p align="center">
-<image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4251.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=clans&extraCount=12240&style=for-the-badge&color=8C7141&labelColor=8C7141"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=weaponry&labelColor=8D2E37&color=8D2E37"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4252.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png">
+<image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4251.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=routes&extraCount=12240&style=for-the-badge&color=8C7141&labelColor=8C7141"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=clans&labelColor=8D2E37&color=8D2E37"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4252.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png">
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4254.png"style="width: auto; height: auto;" /> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4255.png"style="width: auto; height: auto;" />
