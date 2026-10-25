@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=15&duration=12000&pause=5000&color=889A47&center=true&vCenter=true&width=435&lines=%22+now+ur+being+patient+%2C+js+kno+i+miss+him+!+%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=15&duration=12000&pause=5000&color=889A47&center=true&vCenter=true&width=435&lines=%22+now+youre+being+patient+%2C+js+kno+i+miss+him+!+%22" alt="Typing SVG" /></a>
 
 </div>
 
