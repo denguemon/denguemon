@@ -10,7 +10,7 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4254.png"style="width: auto; height: auto;" /> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4255.png"style="width: auto; height: auto;" />
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=14&duration=6700&pause=2&color=889A47&center=true&vCenter=true&width=435&lines=%22+now+ur+being+patient+%2C+just+kno+i+miss+him+.+.+%22;%22+i%E2%80%99ve+been+seeing+faces+%2C+been+seeing+faces+!+%22;%22+there%E2%80%99s+no+point+in+waiting+%2C+no+fun+in+waiting+!+%22;%22+i+wanna+erase+him+!+%22;%22+baby+can+you+take+him+%3F+%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=14&duration=6700&pause=2&color=889A47&center=true&vCenter=true&width=435&lines=%22+now+ur+being+patient+%2C+just+kno+i+miss+him+.+.+%22;%22+i%E2%80%99ve+been+seeing+faces+%2C+been+seeing+faces+!+%22;%22+there%E2%80%99s+no+point+in+waiting+%2C+no+fun+in+waiting+!+%22;%22+i+wanna+erase+him+!+baby+can+you+take+him+%3F+%22" alt="Typing SVG" /></a>
 
 </div>
 
