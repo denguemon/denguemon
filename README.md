@@ -9,26 +9,17 @@
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4254.png"style="width: auto; height: auto;" /> <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4255.png"style="width: auto; height: auto;" />
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=14&duration=6700&pause=2&color=889A47&center=true&vCenter=true&width=435&lines=%22+now+ur+being+patient+%2C+just+kno+i+miss+him+.+.+%22;%22+i%E2%80%99ve+been+seeing+faces+%2C+been+seeing+faces+!+%22;%22+there%E2%80%99s+no+point+in+waiting+%2C+no+fun+in+waiting+!+%22;%22+i+wanna+erase+him+!+baby+can+you+take+him+%3F+%22" alt="Typing SVG" /></a>
 
-</div>
-
-
+<img src="https://file.garden/an64hms_LR8WfCYE/IMG_4550.png" alt="byebye!" width="290" height="auto" align="left" />
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4296.png"style="width: 1; height: 1;" />
+$\color{898B45}\normalsize{\texttt{" just kno i miss him . "}}$ <br>
 
-  <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4247.png"style="width: 50%; height: auto;" />
 </p>
 
   <p align="center">
   <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4257.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4258.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4259.png" width="140" height="80"/></a> <a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4260.png" width="140" height="80"/></a>
  </p>
-
-<p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4248.png"style="width: auto; height: auto;" /> 
 
  <div align="center">
 <details>
@@ -94,11 +85,11 @@
 </div>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4247.png"style="width: 50%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4247.png"style="width: 40%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4297.png"style="width: 20%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4297.png"style="width: 15%; height: auto;" />
 </p>
 
 <p align="center">
@@ -107,4 +98,3 @@
   
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4250.png"style="width: auto; height: auto;" />
-  
