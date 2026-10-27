@@ -1,4 +1,4 @@
-<!--- wait guys tiny inspiration is allowed but please dont fork my repository unless you’re looking for the code/layout of something on it plz dont take heavy inspiration from me without my permission 😭 </!--->
+<!--- YALL BETTER STOP FORKING MY README. ASK ME ON MY ATABOOK FOR MY CODING AAAA </!--->
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4249.png"style="width: auto; height: auto;" />
