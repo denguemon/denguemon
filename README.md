@@ -13,7 +13,7 @@
 <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4550.png" alt="byebye!" width="290" height="auto" align="left" />
 
 <p align="center">
-$\color{898B45}\normalsize{\texttt{" just kno i miss him . "}}$ <br>
+$\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 </p>
 
