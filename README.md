@@ -18,7 +18,7 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 </p>
 
   <p align="center">
-  <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4257.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4258.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4259.png" width="140" height="80"/></a> <a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4260.png" width="140" height="80"/></a>
+  <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4257.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4258.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4259.png" width="140" height="80"/></a> <a href="https://fluffle.cc/extendchord"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4260.png" width="140" height="80"/></a>
  </p>
 
  <div align="center">
