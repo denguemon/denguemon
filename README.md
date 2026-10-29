@@ -69,7 +69,7 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
     <th>
       $\color{898B45}\normalsize{\texttt{owen gc}}$ <br>
   
-  ##### [jojo](https://github.com/title-town) [ken](https://github.com/westalis) [mutt](https://github.com/futamono) [jericho](https://github.com/bbittersweett) [soap](https://github.com/soaparoni)</p>
+  ##### [jojo](https://github.com/title-town) [ken](https://github.com/westalis) [mutt](https://github.com/futamono) [jericho](https://github.com/bbitterssweet) [soap](https://github.com/soaparoni)</p>
   </th>
   </tr>
   </table>
