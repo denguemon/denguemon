@@ -1,7 +1,7 @@
 <!--- YALL BETTER STOP FORKING MY README. ASK ME ON MY ATABOOK FOR MY CODING AAAA </!--->
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4649.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4653.png"style="width: auto; height: auto;" />
   
 <p align="center">
 <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4251.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=routes&extraCount=12240&style=for-the-badge&color=8C7141&labelColor=8C7141"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=clans&labelColor=8D2E37&color=8D2E37"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4252.png"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4253.png">
@@ -90,4 +90,4 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=8C7141&bar_color_cover=false">
   
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4648.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4654.png"style="width: auto; height: auto;" />
