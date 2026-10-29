@@ -65,7 +65,9 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
   
   <p align="center">
 
-##### $\color{898B45}\normalsize{\texttt{owen gc : }}$ [jojo](https://github.com/kujoj1tar0) [ken](https://github.com/westalis) [mutt](https://github.com/futamono) [jericho](https://github.com/bbitterssweet) [soap](https://github.com/soaparoni) $\color{898B45}\normalsize{\texttt{friends : }}$ [charli](https://github.com/zycvwq) [namyi](https://github.com/pawzu) [jester](https://github.com/lorstarcutter) [mea](https://github.com/N1TEB0I) [kathi](https://github.com/4lamort) [morgue](https://github.com/Iostromance) [vincent](https://github.com/myshghoul) [vas](https://github.com/vascoscoscos) [karl](https://github.com/wikiliusdarling) [vee](https://github.com/jokechi) [mike](https://github.com/rinsagi) [ant](https://github.com/spam-tune) [tem](https://github.com/yvoisen) [ko](https://github.com/opioiid) [charlie](https://github.com/homebutcher) [noire](https://github.com/newestalbum) [catalog](https://github.com/URAHARA-KI) [oumi](https://github.com/oumazings)</p>
+##### $\color{898B45}\normalsize{\texttt{owen gc : }}$ [jojo](https://github.com/kujoj1tar0) [ken](https://github.com/westalis) [mutt](https://github.com/futamono) [jericho](https://github.com/bbitterssweet) [soap](https://github.com/soaparoni) 
+
+##### $\color{898B45}\normalsize{\texttt{friends : }}$ [charli](https://github.com/zycvwq) [namyi](https://github.com/pawzu) [jester](https://github.com/lorstarcutter) [mea](https://github.com/N1TEB0I) [kathi](https://github.com/4lamort) [morgue](https://github.com/Iostromance) [vincent](https://github.com/myshghoul) [vas](https://github.com/vascoscoscos) [karl](https://github.com/wikiliusdarling) [vee](https://github.com/jokechi) [mike](https://github.com/rinsagi) [ant](https://github.com/spam-tune) [tem](https://github.com/yvoisen) [ko](https://github.com/opioiid) [charlie](https://github.com/homebutcher) [noire](https://github.com/newestalbum) [catalog](https://github.com/URAHARA-KI) [oumi](https://github.com/oumazings)</p>
 
 </details>
 
