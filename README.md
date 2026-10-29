@@ -64,17 +64,9 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
   <br>
   
   <div align="center">
-  <table>
-  <tr>
-    <th>
-      $\color{898B45}\normalsize{\texttt{owen gc}}$ <br>
-  
-  ##### [jojo](https://github.com/title-town) [ken](https://github.com/westalis) [mutt](https://github.com/futamono) [jericho](https://github.com/bbitterssweet) [soap](https://github.com/soaparoni)</p>
-  </th>
-  </tr>
-  </table>
-</details>
-</div>
+
+##### $\color{898B45}\normalsize{\texttt{owen gc}}$ <br> [jojo](https://github.com/title-town) [ken](https://github.com/westalis) [mutt](https://github.com/futamono) [jericho](https://github.com/bbitterssweet) [soap](https://github.com/soaparoni)</p>
+
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4247.png"style="width: 40%; height: auto;" />
