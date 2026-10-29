@@ -42,7 +42,6 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 <div align="center">
 
-<summary>$$\color{#8A2E37}\text{i\ usually\ sit\ below\ spawn\ !}$$</summary>
 <a href="https://file.garden/an64hms_LR8WfCYE/IMG_4520.png"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4520.png" width="210" height="auto"/>
 
 </details>
