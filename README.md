@@ -52,7 +52,7 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 <div align="center">
 <details>
-  <summary>$$\color{#8A2E37}\text{𝗹𝗼𝘃𝗲𝗺𝗮𝗶𝗹}$$</summary>
+  <summary>$$\color{#889A47}\text{𝗹𝗼𝘃𝗲𝗺𝗮𝗶𝗹}$$</summary>
   <br>
   
   <p align="center">
