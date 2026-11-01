@@ -9,15 +9,6 @@
 
 <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4678.png" alt="byebye!" width="290" height="auto" align="left" />
 
-
-<p align="center">
-  <strong>
-    <a href="https://denguemon.github.io/" style="text-decoration: none; outline: none;">
-      700 follow special : github readme tut
-    </a>
-  </strong>
-</p>
-
 <p align="center">
 $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
