@@ -11,6 +11,14 @@
 
 
 <p align="center">
+  <strong>
+    <a href="https://denguemon.github.io/" style="text-decoration: none; outline: none;">
+      700 follow special : github readme tut
+    </a>
+  </strong>
+</p>
+
+<p align="center">
 $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 </p>
