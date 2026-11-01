@@ -37,7 +37,7 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 <div align="center">
 <details>
-  <summary>$$\color{#889A47}\text{𝗿𝗲𝗮𝗱𝗺𝗲\ 𝘁𝘂𝘁𝗼𝗿𝗶𝗮𝗹}$$</summary>
+  <summary>$$\color{#8C7341}\text{𝗿𝗲𝗮𝗱𝗺𝗲\ 𝘁𝘂𝘁𝗼𝗿𝗶𝗮𝗹}$$</summary>
   <br>
 
 <div align="center">
