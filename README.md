@@ -1,13 +1,13 @@
 <!--- YALL BETTER STOP FORKING MY README. ASK ME ON MY ATABOOK FOR MY CODING AAAA </!--->
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4653.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4969.png"style="width: auto; height: auto;" />
   
 <p align="center">
-<image src="https://file.garden/an64hms_LR8WfCYE/IMG_4251.png"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=routes&extraCount=12240&style=for-the-badge&color=8C7141&labelColor=8C7141"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=clans&labelColor=8D2E37&color=8D2E37"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4252.png">
+<image src="https://file.garden/an64hms_LR8WfCYE/IMG_4971.gif"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=routes&extraCount=12240&style=for-the-badge&color=8C7141&labelColor=8C7141"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=clans&labelColor=8D2E37&color=8D2E37"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4972.gif">
 
 
-<img src="https://file.garden/an64hms_LR8WfCYE/IMG_4678.png" alt="byebye!" width="290" height="auto" align="left" />
+<img src="https://file.garden/an64hms_LR8WfCYE/IMG_4968.png" alt="byebye!" width="290" height="auto" align="left" />
 
 <p align="center">
 $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
@@ -15,7 +15,7 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 </p>
 
   <p align="center">
-  <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4257.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4258.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4259.png" width="140" height="80"/></a> <a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4260.png" width="140" height="80"/></a>
+  <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4976.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4977.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4978.png" width="140" height="80"/></a> <a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4979.png" width="140" height="80"/></a>
  </p>
 
  <div align="center">
@@ -66,11 +66,11 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4247.png"style="width: 40%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4974.png"style="width: 40%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4297.png"style="width: 15%; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4975.png"style="width: 15%; height: auto;" />
 </p>
 
 <p align="center">
@@ -78,4 +78,4 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=8C7141&bar_color_cover=false">
   
 <p align="center">
-  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4654.png"style="width: auto; height: auto;" />
+  <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4970.png"style="width: auto; height: auto;" />
