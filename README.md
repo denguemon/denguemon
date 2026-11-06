@@ -4,13 +4,13 @@
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4969.png"style="width: auto; height: auto;" />
   
 <p align="center">
-<image src="https://file.garden/an64hms_LR8WfCYE/IMG_4971.gif"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=routes&extraCount=12240&style=for-the-badge&color=8C7141&labelColor=8C7141"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=clans&labelColor=8D2E37&color=8D2E37"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4972.gif">
+<image src="https://file.garden/an64hms_LR8WfCYE/IMG_4971.gif"> <img src="https://hits.sh/github.com/haidaware/hits.svg?label=routes&extraCount=12240&style=for-the-badge&color=BFD81C&labelColor=BFD81C"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/denguemon?style=for-the-badge&label=clans&labelColor=00ABA1&color=00ABA1"> <image src="https://file.garden/an64hms_LR8WfCYE/IMG_4972.gif">
 
 
 <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4968.png" alt="byebye!" width="290" height="auto" align="left" />
 
 <p align="center">
-$\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
+$\color{00ABA1}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 </p>
 
@@ -20,13 +20,13 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
  <div align="center">
 <details>
-  <summary>$$\color{#889A47}\text{𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻\ 𝗿𝗲𝘄𝗮𝗿𝗱𝘀}$$</summary>
+  <summary>$$\color{#58C165}\text{𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻\ 𝗿𝗲𝘄𝗮𝗿𝗱𝘀}$$</summary>
   <br>
 
 <div align="center">
   <tr>
     <th>
-  $$\color{#8A2E37} ↓ $$   $$\color{#898B45} 𝘁𝗵𝗮𝗻𝗸 $$   $$\color{#898B45} 𝘆𝗼𝘂 $$   $$\color{#8A2E37} ↓ $$
+  $$\color{#BFD81C} ↓ $$   $$\color{#E8E001} 𝘁𝗵𝗮𝗻𝗸 $$   $$\color{#E8E001} 𝘆𝗼𝘂 $$   $$\color{#BFD81C} ↓ $$
 
 ##### [title town](https://github.com/title-town) ⠀ ⠀[pt players](https://github.com/pt-players) ⠀ ⠀[pt walk of fame](https://github.com/pt-walk-of-fame) ⠀ ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ ⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀ ⠀[owner of ponychievements](https://github.com/ponychievements) ⠀ ⠀[pt nominations](https://github.com/pt-nominations) ⠀ ⠀[pt friendships](https://github.com/pt-friendships) ⠀ ⠀[pt heavyfictkin](https://github.com/pt-heavyfictkin) ⠀ ⠀[ponytown’s rewards](https://github.com/Ponytowns-rewards) ⠀ ⠀[kaotown](https://github.com/kaotown) ⠀ ⠀[music town](https://github.com/music-town) ⠀ ⠀[choco town](https://github.com/choco-town) ⠀ ⠀[pt icon](https://github.com/pt-icon) ⠀ ⠀[pt ship nominations](https://github.com/pt-ship-nominations) ⠀ ⠀[the tempest](https://github.com/THE-TEMPIST) ⠀ ⠀[pt everypony](https://github.com/pt-everypony) ⠀ ⠀[knox event](https://github.com/knox-event) ⠀ ⠀[piddles jet](https://github.com/piddlesjet) ⠀ ⠀[bug town (ty hilda!)](https://github.com/bug-town) ⠀ ⠀[ponytown nominations](https://github.com/pony-town-nominations)</p>
 
@@ -37,7 +37,7 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 <div align="center">
 <details>
-  <summary>$$\color{#8C7341}\text{𝗿𝗲𝗮𝗱𝗺𝗲\ 𝘁𝘂𝘁𝗼𝗿𝗶𝗮𝗹}$$</summary>
+  <summary>$$\color{#58C165}\text{𝗿𝗲𝗮𝗱𝗺𝗲\ 𝘁𝘂𝘁𝗼𝗿𝗶𝗮𝗹}$$</summary>
   <br>
 
 <div align="center">
@@ -52,14 +52,14 @@ $\color{898B45}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 
 <div align="center">
 <details>
-  <summary>$$\color{#889A47}\text{𝗹𝗼𝘃𝗲𝗺𝗮𝗶𝗹}$$</summary>
+  <summary>$$\color{#58C165}\text{𝗹𝗼𝘃𝗲𝗺𝗮𝗶𝗹}$$</summary>
   <br>
   
   <p align="center">
 
-##### $\color{898B45}\normalsize{\texttt{owen gc : }}$ [jojo](https://github.com/kujoj1tar0) [loid](https://github.com/loid) [mutt](https://github.com/futamono) [jericho](https://github.com/bbitterssweet) [soap](https://github.com/soaparoni) 
+##### $\color{BFD81C}\normalsize{\texttt{owen gc : }}$ [jojo](https://github.com/kujoj1tar0) [loid](https://github.com/loid) [mutt](https://github.com/futamono) [jericho](https://github.com/bbitterssweet) [soap](https://github.com/soaparoni) 
 
-##### $\color{898B45}\normalsize{\texttt{friends : }}$ [charli](https://github.com/zycvwq) [namyi](https://github.com/pawzu) [jester](https://github.com/lorstarcutter) | [mea](https://github.com/N1TEB0I) [kathi](https://github.com/4lamort) [leni](https://github.com/creepypastasakura) [morgue](https://github.com/Iostromance) [vincent](https://github.com/myshghoul) [vas](https://github.com/vascoscoscos) [karl](https://github.com/wikiliusdarling) [vee](https://github.com/jokechi) [mike](https://github.com/rinsagi) [ant](https://github.com/spam-tune) [gackt](https://github.com/rickgriimes) [hilda](https://github.com/livingforest) [tem](https://github.com/yvoisen) [ko](https://github.com/opioiid) [matt](https://github.com/phiIemon) [charlie](https://github.com/homebutcher) [noire](https://github.com/newestalbum) [cheryl](https://github.com/trenkir) [kemi](https://github.com/enmitye) [xio](https://github.com/shxrkyxio) [13](https://github.com/pawnresearch) [catalog](https://github.com/URAHARA-KI) [oumi](https://github.com/oumazings) [surf](https://github.com/whatsahearrt)</p>
+##### $\color{BFD81C}\normalsize{\texttt{friends : }}$ [charli](https://github.com/zycvwq) [namyi](https://github.com/pawzu) [jester](https://github.com/lorstarcutter) | [mea](https://github.com/N1TEB0I) [kathi](https://github.com/4lamort) [leni](https://github.com/creepypastasakura) [morgue](https://github.com/Iostromance) [vincent](https://github.com/myshghoul) [vas](https://github.com/vascoscoscos) [karl](https://github.com/wikiliusdarling) [vee](https://github.com/jokechi) [mike](https://github.com/rinsagi) [ant](https://github.com/spam-tune) [gackt](https://github.com/rickgriimes) [hilda](https://github.com/livingforest) [tem](https://github.com/yvoisen) [ko](https://github.com/opioiid) [matt](https://github.com/phiIemon) [charlie](https://github.com/homebutcher) [noire](https://github.com/newestalbum) [cheryl](https://github.com/trenkir) [kemi](https://github.com/enmitye) [xio](https://github.com/shxrkyxio) [13](https://github.com/pawnresearch) [catalog](https://github.com/URAHARA-KI) [oumi](https://github.com/oumazings) [surf](https://github.com/whatsahearrt)</p>
 
 </details>
 
