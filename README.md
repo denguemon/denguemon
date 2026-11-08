@@ -1,4 +1,4 @@
-<!--- YALL BETTER STOP FORKING MY README. ASK ME ON MY ATABOOK FOR MY CODING AAAA </!--->
+<!--- stop forking my readme oh my days </!--->
 
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4969.png"style="width: auto; height: auto;" />
