@@ -15,7 +15,7 @@ $\color{00ABA1}\normalsize{\texttt{" just know i miss him . "}}$ <br>
 </p>
 
   <p align="center">
-  <a href="https://khomedian.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4976.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4977.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4978.png" width="140" height="80"/></a> <a href="https://fluffle.cc/dragonofdojima"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4979.png" width="140" height="80"/></a>
+  <a href="https://akiranishiki.straw.page"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4976.png" width="140" height="80"/></a> <a href="https://khomedy.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4977.png" width="140" height="80"/></a> <a href="https://pronouns.cc/@meas"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4978.png" width="140" height="80"/></a> <a href="https://fluffle.cc/dragonofdojima"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4979.png" width="140" height="80"/></a>
  </p>
 
  <div align="center">
