@@ -10,7 +10,7 @@
 <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4968.png" alt="byebye!" width="290" height="auto" align="left" />
 
 <p align="center">
-$\color{00ABA1}\normalsize{\texttt{" just know i miss him . "}}$ <br>
+$\color{00ABA1}\normalsize{\texttt{" le travail le travail ! libère l'homme ! "}}$ <br>
 
 </p>
 
